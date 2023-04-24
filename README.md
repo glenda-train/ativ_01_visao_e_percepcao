@@ -40,7 +40,7 @@
   * Laplaciano
 
 * **Detecção de Bordas:**
-  * Gradiente
+  * Laplaciano
   * Operador Sobel
   * Canny
 
