@@ -37,7 +37,6 @@
   * Borramento
   * Sharpening
   * Gaussiano
-  * Laplaciano
 
 * **Detecção de Bordas:**
   * Laplaciano
