@@ -6,6 +6,9 @@
 
 ---
 
+### O notebook pode ser executado também pelo Colab:
+* https://colab.research.google.com/drive/127PjomXhYbWlYp793IlJbI2On1RktWw9?usp=sharing
+
 ### Técnicas Implementadas:
 
 * **Tipos de Imagem (leitura, plot e conversão):**
